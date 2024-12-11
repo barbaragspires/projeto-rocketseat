@@ -25,10 +25,9 @@ body{
 
 main {
 	margin: 48px auto 0;
-	max-width: 800px;
-	min-width: 400px;
+  width: 800px;
 	background-color: var(--bgcolor);
-	padding: 24px 0 48px 24px;
+	padding: 24px 24px 48px 24px;
 	border-radius: 20px;
 	
 	
@@ -44,8 +43,7 @@ ul{
 }
 .main-image{
 	margin: auto;
-	max-width: 100%;
-
+	max-width: 752px;
 
 }
 h1{
@@ -81,3 +79,4 @@ footer{
 	margin: 28px 0 48px 0 ;
 	line-height: 150%;
 }
+
